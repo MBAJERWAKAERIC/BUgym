@@ -1,8 +1,8 @@
-<?php include('../constant/layout/head.php');?>
-<?php include('../constant/layout/header.php');?>
-<?php include('../constant/layout/sidebar.php');
+<?php include '../constant/layout/head.php';?>
+<?php include '../constant/layout/header.php';?>
+<?php include '../constant/layout/sidebar.php';
 ?>
- 
+
 
   <!-- Page wrapper  -->
         <div class="page-wrapper">
@@ -21,13 +21,13 @@
             <!-- Container fluid  -->
             <div class="container-fluid">
                 <!-- Start Page Content -->
-                
+
                 <!-- /# row -->
                  <div class="card">
                             <div class="card-body">
-                              
-                            
-                         
+
+
+
                                                 <div class="row">
                     <div class="col-lg-8" style="    margin-left: 10%;">
                         <section class="card">
@@ -35,17 +35,17 @@
 <div class="media">
 
 <div class="media-body">
-<h2 class="text-light display-6">Author Name : Mayuri K</h2>
-<p style="color: white">Freelancer - PHP, Codeignitor & Laravel</p>
+<h2 class="text-light display-6">Author Name : MBAJE RWAKA ERIC</h2>
+<p style="color: white">Full stack developper, PHP, and more</p>
 </div>
 </div>
 </div>
 <ul class="list-group list-group-flush">
 <li class="list-group-item">
-<a href="#" style="font-size:20px;" > <i class="fa fa-envelope-o"></i> Email <span class="badge badge-primary pull-right m-l-10 m-b-10" style="font-size:20px;" >mayuri.infospace@gmail.com</span></a>
+<a href="#" style="font-size:20px;" > <i class="fa fa-envelope-o"></i> Email <span class="badge badge-primary pull-right m-l-10 m-b-10" style="font-size:20px;" >mbajerwakaeric</span></a>
 </li>
 <li class="list-group-item">
-<a style="font-size:20px;" href="https://mayurik.com" target="_blank" > <i class="fa fa-tasks"></i> My Previous Work <span class="badge badge-danger pull-right m-l-10 m-b-10" style="font-size:20px;" >www.mayurik.com</span></a>
+<a style="font-size:20px;" href="https://mayurik.com" target="_blank" > <i class="fa fa-tasks"></i> My Previous Work <span class="badge badge-danger pull-right m-l-10 m-b-10" style="font-size:20px;" ><www class="mbajerwakaeric"></www>.com</span></a>
 </li>
 <li class="list-group-item">
 <a style="font-size:20px;" href="https://www.youtube.com/c/MayuriK/videos" > <i class="fa fa-bell-o"></i> Other Video Demos <span class="badge badge-success pull-right m-l-10 m-b-10" style="font-size:20px;" >Click here to check</span></a>
@@ -57,18 +57,18 @@
 </section>
 <h2 style="color: red">Contact me for any Project Development at affordable cost.</h2>
                     </div>
-                  
+
                 </div>
                                 </div>
                             </div>
                         </div>
-               
+
                 <!-- /# row -->
 
                 <!-- End PAge Content -->
-           
 
-<?php include('../constant/layout/footer.php');?>
-  <!--  This Project Developed by: Mayuri K. 
+
+<?php include '../constant/layout/footer.php';?>
+  <!--  This Project Developed by: Mayuri K.
  for any PHP, Codeignitor or Laravel work contact me through https://www.mayurik.com  -->
 
