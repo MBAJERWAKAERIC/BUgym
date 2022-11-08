@@ -1,0 +1,3 @@
+php_flag display_errors off
+# Disable directory browsing 
+Options -Indexes
